@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "yossef",
+    "email": "yossefk373@gmail.com",
+    "age": 25
+  },
+  {
+    "id": 2,
+    "name": "ziad",
+    "email": "ziadk373@gmail.com",
+    "age": 22
+  },
+  {
+    "id": 3,
+    "name": "boda",
+    "email": "bodak373@gmail.com",
+    "age": 40
+  },
+  {
+    "id": 4,
+    "name": "zain",
+    "email": "zaink373@gmail.com",
+    "age": 45
+  },
+  {
+    "id": 5,
+    "name": "mohamed",
+    "email": "mohamedDk373@gmail.com",
+    "age": 50
+  }
+]
